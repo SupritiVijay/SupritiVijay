@@ -1,5 +1,5 @@
 
-![](./Images/Header_1.png)
+![](./Images/Header_1.jpeg)
 
 ![Supriti Vijay's github stats](https://github-readme-stats.vercel.app/api?username=SupritiVijay&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
 
