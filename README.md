@@ -1,5 +1,5 @@
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](./Images/Header.png)
 
 ![Supriti Vijay's github stats](https://github-readme-stats.vercel.app/api?username=SupritiVijay&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
 
