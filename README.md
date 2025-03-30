@@ -25,6 +25,3 @@
 
 
 **My Interests:**  *Natural Language Processings, AI for social good, Explainable AI, Social Network Analysis*
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SupritiVijay&layout=compact&theme=dracula)
