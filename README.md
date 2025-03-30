@@ -1,7 +1,7 @@
 
 ![](./Images/Banner_Sup.jpg)
 
-![Supriti Vijay's github stats](https://github-readme-stats.vercel.app/api?username=SupritiVijay&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
+username=SupritiVijay&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
 
 # Hi there, I'm Supriti Vijay,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
